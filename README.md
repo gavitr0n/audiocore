@@ -4,7 +4,7 @@ A wifi-enabled dac/amp project featuring a sparkcore and es9018k2m dac
 ## Change Log
 4-25-15 Initial commit for project: 
 * adding device drivers for the dac
-* adding wi-fi functionalities volume_control,mute, and reset
+* adding wi-fi functionalities volume_control,mute, and reset. Tested functionality using the IOS tinker app from sparkcore
 
 
 
