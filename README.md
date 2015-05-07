@@ -14,7 +14,7 @@ This project connects an es9018k2m DAC to a [Spark Core](https://www.spark.io) c
 Connecting the es9018k2m DAC to the sparkcore enables dac control over wi-fi. For instance, the user will be able to control volume, mute/unmute, and reset the dac with their phone.
 
 ##Installation
-This firmware is built from gcc-arm, and flashed with the spark cli interface. Please see [spark core git](https://github.com/spark/firmware) for information to get the environment setup
+This firmware is built from gcc-arm, and flashed with the spark cli interface. Please see [spark core git](https://github.com/spark/firmware) for information to get the environment setup.
 
 NOTE: before building the audiocore firmware, make sure to compile the sparkcore firmware. 
 
@@ -25,6 +25,8 @@ NOTE: before building the audiocore firmware, make sure to compile the sparkcore
 
 
 ##Hardware used for this project
+Note: Schematics of hardware to come!
+
 * [Spark Core Core](https://store.spark.io/?product=spark-core)
 * [DIYINHK ES9018K2M](http://www.diyinhk.com/shop/audio-kits/60-usb-dsd-dxd-384khz-dac-with-bit-perfect-volume-control-and-spdif-inputxmoses9018k2m.html)
 * [DIYINHK Isolated XMOS](http://www.diyinhk.com/shop/audio-kits/69-isolated-xmos-dsd-dxd-384khz-high-quality-usb-to-i2sdsd-pcb-with-ultralow-noise-regulator.html)
